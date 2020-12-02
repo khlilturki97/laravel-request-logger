@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace KhlilTurki97\Middleware;
 
 use Closure;
 use Illuminate\Support\Facades\Log;
